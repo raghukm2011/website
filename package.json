@@ -17,8 +17,8 @@
     "smoothscroll-polyfill": "^0.4.4"
   },
   "scripts": {
-    "predeploy":"git remote set-url origin git@github.com:raghukm2011/raghukm.github.io.git && npm run build",
-    "deploy":"gh-pages -b master -d build && git remote set-url origin git@github.com:raghukm2011/website.git",
+    "predeploy": "git remote set-url origin git@github.com:raghukm2011/raghukm.github.io.git && npm run build",
+    "deploy": "gh-pages -b master -d build && git remote set-url origin git@github.com:raghukm2011/website.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
