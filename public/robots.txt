@@ -1,0 +1,6 @@
+# robots.txt for https://zckoh.github.io/
+
+User-agent: *
+Disallow:
+
+Sitemap: https://zckoh.github.io/sitemap.xml

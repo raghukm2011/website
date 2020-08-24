@@ -1,0 +1,15 @@
+@media (max-width: 500px) { 
+    .map-box {
+        height: 60vh !important;
+        width: 100vw;
+        margin-left: calc(-50vw + 50%);
+    }
+}
+
+.map-box {
+    height: 60vh !important;
+}
+
+.infowindow-background {
+    background-color: #8a6c6a;
+}
